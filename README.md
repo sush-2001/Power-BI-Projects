@@ -12,3 +12,7 @@ Developed interactive dashboards to track and analyze insurance business perform
 4. Stage Funnel by Revenue
 5. No of meeting By Account Exe
 6-Top Open Opportunity
+## Zomato Analytics dashboard
+Built an interactive Zomato dashboard analyzing 9,500+ restaurants across 15 countries.
+Designed KPIs & visualizations for restaurant trends, online delivery, table bookings, and ratings.
+
